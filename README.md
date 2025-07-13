@@ -2,6 +2,7 @@
 This is a console-based Taxi Booking System written in Java using Object-Oriented Programming (OOP) concepts.
 
 💼 Features
+
 -Book a taxi based on availability and proximity
 
 -Calculate fare based on distance and time
@@ -13,6 +14,7 @@ This is a console-based Taxi Booking System written in Java using Object-Oriente
 -Display taxi-wise booking history and earnings
 
 Files Included
+
 1.TaxiBookingSystem.java – Main app logic and menu
 
 2. Taxi.java – Taxi class with current location, earnings, and bookings
